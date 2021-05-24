@@ -1,0 +1,173 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    border-bottom: 1px solid rgb(179, 170, 170);
+}
+
+
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+padding: 20px 0;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+    
+width: 46%;
+}
+nav{
+
+width: 40%;
+
+float: right;
+}
+
+nav ul{
+    
+}
+
+nav ul li{
+    
+list-style: none;
+    
+float: right;
+    
+margin-left: 30px;
+}
+.section{
+width: 60%;
+margin-left: 20%;
+text-align: center;
+}
+
+.section h1{
+   color: #0F2051; 
+   margin: 20px 0;
+   font-size: 35px;
+}
+
+.section h2{
+    color: #0585FF;
+  font-size: 30px;
+  
+}
+.section p{
+    color: #72707F;
+    margin: 10px 0;
+    font-size: 18px;
+}
+.section img{
+    
+}
+
+.content{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.left_content{
+    width: 48%;
+    float: left;
+    text-align: right;
+
+
+
+}
+.left_content h1{
+    color: #EA5969;
+    font-size: 50px;
+
+    
+}
+.left_contentvp{
+    font-size: 18px;
+    color: #525A6C;
+
+}
+
+.right_content{
+
+}
+.right_content h1{
+    width: 48%;
+    float: right;
+    font-size: 50px;
+    color: #142248;
+
+}
+
+.item_section{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.item_one{
+    width: 25%;
+    float: left;
+    text-align: center;
+    background-color: #FEECEC;
+    padding: 50px 30px;
+
+}
+
+.item_two{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    background-color: #EAF9F4;
+    padding: 50px 30px;
+
+
+}
+
+.item_three{
+    width: 25%;
+    float: right;
+    background-color: #FFF8E8;
+    padding: 50px 30px;
+
+}
+
+.item_one img,.item_two img,.item_three img{
+
+}
+
+.item_one h1,.item_two h1,.item_three h1{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.item_one p,.item_two p,.item_three p{
+ text-align: left;   
+ font-size: 18px;
+}
+
+footer{
+    background-color:#008AFF;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 2px;}
+
+footer p{
+
+color: #5ACFFF;
+padding: 10px 2px;
+}
+footer p span{
+color: #F3FCFF;
